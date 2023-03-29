@@ -1,0 +1,23 @@
+li {
+    display: block;
+ 
+}
+
+.box {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    
+
+}
+.container {
+    background-color: bisque;
+    height: 150px;
+    border: 3px dashed;
+}
+
+.container:hover {
+    
+    color: aqua;
+}
+
